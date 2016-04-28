@@ -18,7 +18,8 @@
     "certifications": [
         {
             "certificationshortname": "Certified Scrum Master",
-            "certificationtooltip": "Certified Product Owner"
+            "certificationtooltip": "Certified Product Owner",
+            "certificationtooltipurl": ""
         }
     ],
     "topskills": [],
