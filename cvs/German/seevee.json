@@ -1,1 +1,37 @@
-{}
+{
+    "firstname": "Daniel",
+    "lastname": "Bartl",
+    "dateofbirth": "1975-09-26",
+    "jobtitle": "Agile Berater",
+    "contact": {
+        "mobile": "+ 49 160 4477596",
+        "email": "daniel.bartl@comsysto.com",
+        "address": {
+            "street": "Tumblingerstr. 23",
+            "postalcode": "80333",
+            "city": "München"
+        }
+    },
+    "qualification": "Uni",
+    "qualificationalinstitution": "LMU München",
+    "languages": [],
+    "certifications": [
+        {
+            "certificationshortname": "Certified Scrum Master",
+            "certificationtooltip": "Certified Product Owner"
+        }
+    ],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
