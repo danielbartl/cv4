@@ -25,7 +25,14 @@
     "topskills": [],
     "aboutme": [],
     "experience": [],
-    "methodicalskills": [],
+    "methodicalskills": [
+        "Scrum",
+        "Kanban",
+        "Lean Startup",
+        "LeSS",
+        "Agile",
+        "Lean"
+    ],
     "industryskills": [],
     "itskills": [],
     "projecthistory": [],
